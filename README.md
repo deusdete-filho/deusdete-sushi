@@ -2,17 +2,13 @@
   Deusdete SUSHI
   </h1>
 
-# Índice
 
-- [Sobre a aplicação](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## 🚀 Sobre a aplicação
 
-- Essa aplicação será o front-end de um site de restaurante, permitindo cadastrar, remover e editar pratos, bem como indicar sua disponibilidade.
+- Essa aplicação será o front-end de um site de restaurante de sushi, permitindo cadastrar, remover e editar pratos, bem como indicar sua disponibilidade.
 - A aplicação foi feita usando ReactJS, Typescript, e a lib axios para conexão com a fake api.
-- A aplicação faz parte de uma série de desafios do bootcamp GoStack 11.0 da Rocketseat.
+
 
 ## 🚀 Tecnologias utilizadas
 
