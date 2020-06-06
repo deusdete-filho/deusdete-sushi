@@ -1,0 +1,12 @@
+{
+  "foods": [
+    {
+      "image": "https://d1ralsognjng37.cloudfront.net/5d839100-0374-46b4-86fc-3b48cb5223d7.jpeg",
+      "name": "Joy com geleia de pimenta - 10 Unidades",
+      "price": "59,90",
+      "description": "Arroz, lascas de salmão cream cheese e geleia de pimenta.",
+      "id": 2,
+      "available": false
+    }
+  ]
+}

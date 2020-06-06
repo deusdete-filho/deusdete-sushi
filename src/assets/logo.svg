@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="239.5" height="58" viewBox="0 0 239.5 58">
+  <defs>
+    <filter id="DEUSDETE_SUSHI" x="46.5" y="0" width="193" height="58" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_2" data-name="Grupo 2" transform="translate(-46 -60.5)">
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(185.996 60)">
+      <g transform="matrix(1, 0, 0, 1, -140, 0.5)" filter="url(#DEUSDETE_SUSHI)">
+        <text id="DEUSDETE_SUSHI-2" data-name="DEUSDETE SUSHI" transform="translate(48 40.5)" fill="#fff" font-size="40" font-family="AvenirNextCondensed-UltraLight, Avenir Next Condensed" font-weight="100" letter-spacing="-0.08em"><tspan x="0" y="0">DEUSDETE SUSHI</tspan></text>
+      </g>
+    </g>
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(46 68)" fill="#fff" stroke="#efefef" stroke-width="1">
+      <ellipse cx="20" cy="20.5" rx="20" ry="20.5" stroke="none"/>
+      <ellipse cx="20" cy="20.5" rx="19.5" ry="20" fill="none"/>
+    </g>
+    <ellipse id="Elipse_2" data-name="Elipse 2" cx="11" cy="11.5" rx="11" ry="11.5" transform="translate(55 77)" fill="#ff9090"/>
+  </g>
+</svg>
