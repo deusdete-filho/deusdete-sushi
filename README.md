@@ -1,6 +1,6 @@
-<p align="center">
-  # Deusdete SUSHI
-  </p>
+<h1 align="center">
+  Deusdete SUSHI
+  </h1>
 
 # Índice
 
