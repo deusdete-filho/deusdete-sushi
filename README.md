@@ -1,10 +1,4 @@
-<p align="center">
-<img src="https://ik.imagekit.io/rmpz8b4ytr/logo_gostack_xOQ3emgGa.png"/>
-</p>
 
-<h1 align='center'>
-    <img src="https://ik.imagekit.io/rmpz8b4ytr/GoRestaurant_1fGz2Cb8F.gif">
-</h1>
 
 # Índice
 
@@ -47,5 +41,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```
 
 ---
-Criado com ❤️ por Romulo Braga
+Criado com ❤️ por Deusdete Filho
 # deusdete-sushi
