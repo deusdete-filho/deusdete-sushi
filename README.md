@@ -1,4 +1,6 @@
-
+<p align="center">
+  # Deusdete SUSHI
+  </p>
 
 # Índice
 
@@ -42,4 +44,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 Criado com ❤️ por Deusdete Filho
-# deusdete-sushi
